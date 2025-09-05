@@ -1,0 +1,61 @@
+{
+    "_id": "68bab289cc60c2c68514bf9c",
+    "name": "first push",
+    "projectId": "68b97ff11cd2c46939a5c299",
+    "testCaseFolderId": "68bab282cc60c2c68514bf75",
+    "appType": "Web",
+    "assignedTo": "sriram",
+    "description": "",
+    "createdOn": "2025-09-05T09:51:05.607Z",
+    "displayOn": "2025-09-05T09:51:05.607Z",
+    "createdBy": "67a1ed249e60cfb1db197c1b",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "67a1ed249e60cfb1db197c1b",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-09-05T09:51:21.173Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "gitpush",
+    "testStepGroups": [
+        {
+            "_id": "68bab299cc60c2c68514bfcd",
+            "name": "erf",
+            "projectId": "68b97ff11cd2c46939a5c299",
+            "testCaseId": "68bab289cc60c2c68514bf9c",
+            "appType": "Web",
+            "assignedTo": "sriram",
+            "groupIndex": 1,
+            "createdBy": "67a1ed249e60cfb1db197c1b",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "67a1ed249e60cfb1db197c1b",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-05T09:51:21.163Z",
+            "displayOn": "2025-09-05T09:51:21.163Z",
+            "modifiedOn": "2025-09-05T09:51:21.163Z",
+            "testSteps": [
+                {
+                    "_id": "68bab299cc60c2c68514bfd0",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "startLoop",
+                    "appType": "Generic",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68bab299cc60c2c68514bfcd",
+                    "parentName": "erf",
+                    "modifiedBy": "67a1ed249e60cfb1db197c1b",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
