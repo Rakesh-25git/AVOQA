@@ -1,0 +1,61 @@
+{
+    "_id": "68ca587981784aa820cef8ba",
+    "name": "first git",
+    "projectId": "68c8e60a006dedda9733d8a0",
+    "testCaseFolderId": "68c8e7fa006dedda9733d92e",
+    "appType": "Web",
+    "assignedTo": "apurva.barge",
+    "description": "",
+    "createdOn": "2025-09-17T06:43:05.923Z",
+    "displayOn": "2025-09-17T06:43:05.923Z",
+    "createdBy": "678e22facc021c0a31b97035",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "678e22facc021c0a31b97035",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-09-17T06:43:17.766Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "New Folder",
+    "testStepGroups": [
+        {
+            "_id": "68ca588581784aa820cef8eb",
+            "name": "dver",
+            "projectId": "68c8e60a006dedda9733d8a0",
+            "testCaseId": "68ca587981784aa820cef8ba",
+            "appType": "Web",
+            "assignedTo": "apurva.barge",
+            "groupIndex": 1,
+            "createdBy": "678e22facc021c0a31b97035",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "678e22facc021c0a31b97035",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-17T06:43:17.755Z",
+            "displayOn": "2025-09-17T06:43:17.755Z",
+            "modifiedOn": "2025-09-17T06:43:17.755Z",
+            "testSteps": [
+                {
+                    "_id": "68ca588581784aa820cef8ee",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "getorchstrationreports",
+                    "appType": "Generic",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68ca588581784aa820cef8eb",
+                    "parentName": "dver",
+                    "modifiedBy": "678e22facc021c0a31b97035",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
