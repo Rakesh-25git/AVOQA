@@ -1,0 +1,61 @@
+{
+    "_id": "68d0e816ce256a2df1f715df",
+    "name": "gittygit",
+    "projectId": "68c8e60a006dedda9733d8a0",
+    "testCaseFolderId": "68d0e810ce256a2df1f715c4",
+    "appType": "Web",
+    "assignedTo": "apurva.barge",
+    "description": "",
+    "createdOn": "2025-09-22T06:09:26.471Z",
+    "displayOn": "2025-09-22T06:09:26.471Z",
+    "createdBy": "678e22facc021c0a31b97035",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "678e22facc021c0a31b97035",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-09-22T06:09:41.725Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "full gir test",
+    "testStepGroups": [
+        {
+            "_id": "68d0e825ce256a2df1f71608",
+            "name": "lkjlkj",
+            "projectId": "68c8e60a006dedda9733d8a0",
+            "testCaseId": "68d0e816ce256a2df1f715df",
+            "appType": "Web",
+            "assignedTo": "apurva.barge",
+            "groupIndex": 1,
+            "createdBy": "678e22facc021c0a31b97035",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "678e22facc021c0a31b97035",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T06:09:41.715Z",
+            "displayOn": "2025-09-22T06:09:41.715Z",
+            "modifiedOn": "2025-09-22T06:09:41.715Z",
+            "testSteps": [
+                {
+                    "_id": "68d0e825ce256a2df1f7160b",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "startLoop",
+                    "appType": "Generic",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e825ce256a2df1f71608",
+                    "parentName": "lkjlkj",
+                    "modifiedBy": "678e22facc021c0a31b97035",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ]
+}
