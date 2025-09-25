@@ -1,0 +1,365 @@
+{
+    "_id": "68d11b1c67fd842c915c69d6",
+    "name": "lead creation",
+    "projectId": "68bea1da206931606aae334d",
+    "testCaseFolderId": "68d10de567fd842c915be996",
+    "appType": "Web",
+    "assignedTo": "keerthana",
+    "description": "",
+    "createdOn": "2025-09-22T09:47:08.684Z",
+    "displayOn": "2025-09-22T09:47:08.684Z",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-09-22T11:17:17.317Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "Lead creation",
+    "testStepGroups": [
+        {
+            "_id": "68d12de467fd842c915ca97e",
+            "name": "lead creation",
+            "projectId": "68bea1da206931606aae334d",
+            "testCaseId": "68d11b1c67fd842c915c69d6",
+            "appType": "Web",
+            "assignedTo": "keerthana",
+            "groupIndex": 2,
+            "createdBy": "677b7886e630ee1a15603de5",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b7886e630ee1a15603de5",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T11:17:17.302Z",
+            "displayOn": "2025-09-22T11:17:17.302Z",
+            "modifiedOn": "2025-09-22T11:17:17.302Z",
+            "testSteps": [
+                {
+                    "_id": "68d12de467fd842c915ca981",
+                    "name": "NONAME1",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca8c8",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca984",
+                    "name": "New Lead",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca8e9",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca985",
+                    "name": "Lead Status",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca8f4",
+                    "stepNo": 3,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca986",
+                    "name": "New",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca8ff",
+                    "stepNo": 4,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca987",
+                    "name": "Salutation",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca90a",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca988",
+                    "name": "Ms.",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca915",
+                    "stepNo": 6,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca989",
+                    "name": "First Name",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca920",
+                    "stepNo": 7,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "Demo123"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca98a",
+                    "name": "Middle Name",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca92b",
+                    "stepNo": 8,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "abc"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca98b",
+                    "name": "*Last Name",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca936",
+                    "stepNo": 9,
+                    "keywordVal": "settexttest",
+                    "appType": "Web",
+                    "inputVal": [
+                        "keerthana"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0,
+                    "isCustom": true
+                },
+                {
+                    "_id": "68d12de467fd842c915ca98c",
+                    "name": "Address Search",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca941",
+                    "stepNo": 10,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "bangalore"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca98d",
+                    "name": "Country",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca94c",
+                    "stepNo": 11,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "IN"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca98e",
+                    "name": "*Company",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca957",
+                    "stepNo": 12,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "automation"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca98f",
+                    "name": "Save",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca962",
+                    "stepNo": 13,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d12de467fd842c915ca990",
+                    "name": "Lead \"\" was created.",
+                    "elementRepoId": "68d12de467fd842c915ca8bf",
+                    "elementId": "68d12de467fd842c915ca96d",
+                    "stepNo": 14,
+                    "keywordVal": "waitForElementVisible",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12de467fd842c915ca97e",
+                    "parentName": "lead creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "68d12f5d67fd842c915cab54",
+            "name": "lead selection",
+            "projectId": "68bea1da206931606aae334d",
+            "testCaseId": "68d11b1c67fd842c915c69d6",
+            "appType": "Web",
+            "assignedTo": "keerthana",
+            "groupIndex": 3,
+            "createdBy": "677b7886e630ee1a15603de5",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b7886e630ee1a15603de5",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T11:17:17.312Z",
+            "displayOn": "2025-09-22T11:17:17.312Z",
+            "modifiedOn": "2025-09-22T11:17:17.312Z",
+            "testSteps": [
+                {
+                    "_id": "68d12f5d67fd842c915cab57",
+                    "name": "Leads",
+                    "elementRepoId": "68d12f5d67fd842c915cab3a",
+                    "elementId": "68d12f5d67fd842c915cab43",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d12f5d67fd842c915cab54",
+                    "parentName": "lead selection",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Account creation/Login   Salesforce",
+        "Account creation/account creation",
+        "order creation/Home   Salesforce",
+        "order creation/00000201   Order   Salesforce",
+        "lead creation/Login   Salesforce",
+        "lead creation/Home   Salesforce",
+        "AvoGenius_lead creation/Home   Salesforce 8433629d-2f43-4c0d-a8a0-6974f10917be",
+        "AvoGenius_lead creation/Recently Viewed   Leads   Salesforce",
+        "Imported conversion of lead to opp/Login to Salesforce",
+        "Imported conversion of lead to opp/Create Leads",
+        "Imported conversion of lead to opp/Create Opportunity",
+        "Imported conversion of lead to opp/Logout from Salesforce"
+    ],
+    "associated": [
+        "elementRepositories\\lead creation\\Home   Salesforce.er",
+        "elementRepositories\\AvoGenius_lead creation\\Home   Salesforce 8433629d-2f43-4c0d-a8a0-6974f10917be.er"
+    ]
+}

@@ -1,0 +1,497 @@
+{
+    "_id": "68d1013f67fd842c915bbf3c",
+    "name": "order creation",
+    "projectId": "68bea1da206931606aae334d",
+    "testCaseFolderId": "68d0e46067fd842c915b69aa",
+    "appType": "Web",
+    "assignedTo": "keerthana",
+    "description": "",
+    "createdOn": "2025-09-22T07:56:47.848Z",
+    "displayOn": "2025-09-22T07:56:47.848Z",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-09-22T08:20:21.520Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "order creation",
+    "testStepGroups": [
+        {
+            "_id": "68d101c167fd842c915bc26d",
+            "name": "Home   Salesforce",
+            "projectId": "68bea1da206931606aae334d",
+            "testCaseId": "68d1013f67fd842c915bbf3c",
+            "appType": "Web",
+            "assignedTo": "keerthana",
+            "groupIndex": 2,
+            "createdBy": "677b7886e630ee1a15603de5",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b7886e630ee1a15603de5",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T08:20:21.505Z",
+            "displayOn": "2025-09-22T08:20:21.505Z",
+            "modifiedOn": "2025-09-22T08:20:21.505Z",
+            "testSteps": [
+                {
+                    "_id": "68d101c167fd842c915bc270",
+                    "name": "NONAME1",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc180",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc271",
+                    "name": "New Order",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc18b",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc273",
+                    "name": "New Contract",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1a1",
+                    "stepNo": 4,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc275",
+                    "name": "Today",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1b7",
+                    "stepNo": 6,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc276",
+                    "name": "*Contract Term (months)",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1c2",
+                    "stepNo": 7,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "5"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc277",
+                    "name": "*Account Name",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1cd",
+                    "stepNo": 8,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc278",
+                    "name": "final",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1d8",
+                    "stepNo": 9,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc279",
+                    "name": "Status",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1e3",
+                    "stepNo": 10,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc27a",
+                    "name": "Draft",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1ee",
+                    "stepNo": 11,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc27b",
+                    "name": "Save",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc1f9",
+                    "stepNo": 12,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc27c",
+                    "name": "Success notification.Contract \"00000125",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc204",
+                    "stepNo": 13,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc27d",
+                    "name": "*Account Name_1",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc20f",
+                    "stepNo": 14,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc27e",
+                    "name": "8722664578",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc21a",
+                    "stepNo": 15,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc27f",
+                    "name": "Select a date for Order Start Date",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc225",
+                    "stepNo": 16,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc280",
+                    "name": "Today_2",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc230",
+                    "stepNo": 17,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc281",
+                    "name": "Status_3",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc23b",
+                    "stepNo": 18,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc282",
+                    "name": "Status_4",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc246",
+                    "stepNo": 19,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc283",
+                    "name": "Description",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc251",
+                    "stepNo": 20,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "order creation"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d101c167fd842c915bc284",
+                    "name": "Save_5",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d101c167fd842c915bc25c",
+                    "stepNo": 21,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d1068167fd842c915bc7ae",
+                    "name": "Search Contracts...",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d1065267fd842c915bc50d",
+                    "stepNo": 3,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "1"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d106c567fd842c915bc9ea",
+                    "name": "StartDate_new contact",
+                    "elementRepoId": "68d101c167fd842c915bc177",
+                    "elementId": "68d1065267fd842c915bc518",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc26d",
+                    "parentName": "Home   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "68d101c167fd842c915bc2a7",
+            "name": "00000201   Order   Salesforce",
+            "projectId": "68bea1da206931606aae334d",
+            "testCaseId": "68d1013f67fd842c915bbf3c",
+            "appType": "Web",
+            "assignedTo": "keerthana",
+            "groupIndex": 3,
+            "createdBy": "677b7886e630ee1a15603de5",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b7886e630ee1a15603de5",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T08:20:21.518Z",
+            "displayOn": "2025-09-22T08:20:21.518Z",
+            "modifiedOn": "2025-09-22T08:20:21.518Z",
+            "testSteps": [
+                {
+                    "_id": "68d101c167fd842c915bc2aa",
+                    "name": "Success notification.Order \"00000201\" w",
+                    "elementRepoId": "68d101c167fd842c915bc28d",
+                    "elementId": "68d101c167fd842c915bc296",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d101c167fd842c915bc2a7",
+                    "parentName": "00000201   Order   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Account creation/Login   Salesforce",
+        "Account creation/account creation",
+        "order creation/Home   Salesforce",
+        "order creation/00000201   Order   Salesforce",
+        "lead creation/Login   Salesforce",
+        "lead creation/Home   Salesforce",
+        "AvoGenius_lead creation/Home   Salesforce 8433629d-2f43-4c0d-a8a0-6974f10917be",
+        "AvoGenius_lead creation/Recently Viewed   Leads   Salesforce",
+        "Imported conversion of lead to opp/Login to Salesforce",
+        "Imported conversion of lead to opp/Create Leads",
+        "Imported conversion of lead to opp/Create Opportunity",
+        "Imported conversion of lead to opp/Logout from Salesforce"
+    ],
+    "associated": [
+        "elementRepositories\\order creation\\Home   Salesforce.er",
+        "elementRepositories\\order creation\\00000201   Order   Salesforce.er"
+    ]
+}

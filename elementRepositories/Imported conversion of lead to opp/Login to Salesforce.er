@@ -1,0 +1,239 @@
+{
+    "_id": "68d4d49480be376d180f391b",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Login to Salesforce",
+    "title": "Login to Salesforce",
+    "folderId": "68d4d49480be376d180f3915",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-25T05:35:16.764Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-25T05:35:16.764Z",
+    "displayOn": "2025-09-25T05:35:16.764Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d4d49480be376d180f3924",
+            "name": "Username",
+            "height": 44,
+            "hiddentag": "No",
+            "left": 320,
+            "tag": "input",
+            "top": 241,
+            "url": "https://slkamerica--uat.sandbox.my.salesforce.com/",
+            "viewTop": 241,
+            "width": 338,
+            "fullSS": false,
+            "tempOrderId": "e655c6f4-a587-47fd-afa8-0286ece93a86",
+            "identifiers": {
+                "classname": "input r4 wide mb16 mt8 username",
+                "cssselector": "input[class=\"input r4 wide mb16 mt8 username\"]",
+                "href": "None",
+                "id": "username",
+                "label": "Username",
+                "name": "username",
+                "rxpath": "//*[@id=\"username\"]",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/div[1]/div/input[1]"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a570ca9122d74bde59da1f"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68a570ca9122d74bde59da20"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68a570ca9122d74bde59da21"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570ca9122d74bde59da22"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570ca9122d74bde59da23"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570ca9122d74bde59da24"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570ca9122d74bde59da25"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570ca9122d74bde59da26"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f391b",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f392d",
+            "name": "Password",
+            "height": 44,
+            "hiddentag": "No",
+            "left": 320,
+            "tag": "input",
+            "top": 324,
+            "url": "https://slkamerica--uat.sandbox.my.salesforce.com/",
+            "viewTop": 324.20001220703125,
+            "width": 338,
+            "fullSS": false,
+            "tempOrderId": "6c85ae03-419d-4626-b8a0-81aa987a92e0",
+            "identifiers": {
+                "classname": "input r4 wide mb16 mt8 password",
+                "cssselector": "input[class=\"input r4 wide mb16 mt8 password\"]",
+                "href": "None",
+                "id": "password",
+                "label": "Password",
+                "name": "pw",
+                "rxpath": "//*[@id=\"password\"]",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/input[1]"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a570cb9122d74bde59da2f"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68a570cb9122d74bde59da30"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68a570cb9122d74bde59da31"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570cb9122d74bde59da32"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570cb9122d74bde59da33"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570cb9122d74bde59da34"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570cb9122d74bde59da35"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570cb9122d74bde59da36"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f391b",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f3936",
+            "name": "Log In to Sandbox",
+            "height": 44,
+            "hiddentag": "No",
+            "left": 320,
+            "tag": "button",
+            "top": 384,
+            "url": "https://slkamerica--uat.sandbox.my.salesforce.com/",
+            "viewTop": 384.20001220703125,
+            "width": 338,
+            "fullSS": false,
+            "tempOrderId": "e9e418ef-9a01-4f83-b079-c4bbc51f441d",
+            "identifiers": {
+                "classname": "button r4 wide primary",
+                "cssselector": "input[class=\"button r4 wide primary\"]",
+                "href": "None",
+                "id": "Login",
+                "label": "Log In to Sandbox",
+                "name": "Login",
+                "rxpath": "//*[@id=\"Login\"]",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/input[2]"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a570cb9122d74bde59da3f"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68a570cb9122d74bde59da40"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68a570cb9122d74bde59da41"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570cb9122d74bde59da42"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570cb9122d74bde59da43"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570cb9122d74bde59da44"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570cb9122d74bde59da45"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570cb9122d74bde59da46"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f391b",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "Imported conversion of lead to opp"
+}

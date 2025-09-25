@@ -1,0 +1,516 @@
+{
+    "_id": "68d0deee67fd842c915b5d37",
+    "name": "account creation",
+    "projectId": "68bea1da206931606aae334d",
+    "testCaseFolderId": "68d0dee567fd842c915b5d1c",
+    "appType": "Web",
+    "assignedTo": "keerthana",
+    "description": "",
+    "createdOn": "2025-09-22T05:30:22.410Z",
+    "displayOn": "2025-09-22T05:30:22.410Z",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedByRole": "5db0022cf87fdec084ae49ab",
+    "modifiedOn": "2025-09-22T06:07:26.194Z",
+    "isTestCaseRecoveryStep": false,
+    "tag": [],
+    "versions": [],
+    "__v": 0,
+    "parentPath": "account creation",
+    "testStepGroups": [
+        {
+            "_id": "68d0e01467fd842c915b5dd9",
+            "name": "Login   Salesforce",
+            "projectId": "68bea1da206931606aae334d",
+            "testCaseId": "68d0deee67fd842c915b5d37",
+            "appType": "Web",
+            "assignedTo": "keerthana",
+            "groupIndex": 1,
+            "createdBy": "677b7886e630ee1a15603de5",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b7886e630ee1a15603de5",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T06:07:26.182Z",
+            "displayOn": "2025-09-22T06:07:26.182Z",
+            "modifiedOn": "2025-09-22T06:07:26.182Z",
+            "testSteps": [
+                {
+                    "_id": "68d0e01467fd842c915b5ddc",
+                    "name": "@Browser",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 1,
+                    "keywordVal": "openBrowser",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5dd9",
+                    "parentName": "Login   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ddd",
+                    "name": "@Browser",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 2,
+                    "keywordVal": "navigateToURL",
+                    "appType": "Web",
+                    "inputVal": [
+                        "https://login.salesforce.com/"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5dd9",
+                    "parentName": "Login   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ddf",
+                    "name": "Username",
+                    "elementRepoId": "68d0e01467fd842c915b5da9",
+                    "elementId": "68d0e01467fd842c915b5dbd",
+                    "stepNo": 3,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "sanjeev.bhagat-22ek@force.com"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5dd9",
+                    "parentName": "Login   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5de0",
+                    "name": "Password",
+                    "elementRepoId": "68d0e01467fd842c915b5da9",
+                    "elementId": "68d0e01467fd842c915b5db2",
+                    "stepNo": 4,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "AvoPilot$123"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5dd9",
+                    "parentName": "Login   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5de1",
+                    "name": "Login",
+                    "elementRepoId": "68d0e01467fd842c915b5da9",
+                    "elementId": "68d0e01467fd842c915b5dc8",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5dd9",
+                    "parentName": "Login   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e79e67fd842c915b7626",
+                    "name": "@Generic",
+                    "elementRepoId": "",
+                    "elementId": "",
+                    "stepNo": 6,
+                    "keywordVal": "wait",
+                    "appType": "Generic",
+                    "inputVal": [
+                        "5"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5dd9",
+                    "parentName": "Login   Salesforce",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5eb4",
+            "name": "Account creation",
+            "projectId": "68bea1da206931606aae334d",
+            "testCaseId": "68d0deee67fd842c915b5d37",
+            "appType": "Web",
+            "assignedTo": "keerthana",
+            "groupIndex": 2,
+            "createdBy": "677b7886e630ee1a15603de5",
+            "createdByRole": "5db0022cf87fdec084ae49ab",
+            "modifiedBy": "677b7886e630ee1a15603de5",
+            "modifiedByRole": "5db0022cf87fdec084ae49ab",
+            "createdOn": "2025-09-22T06:07:26.192Z",
+            "displayOn": "2025-09-22T06:07:26.192Z",
+            "modifiedOn": "2025-09-22T06:07:26.192Z",
+            "testSteps": [
+                {
+                    "_id": "68d0e01467fd842c915b5eb7",
+                    "name": "NONAME1",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5df3",
+                    "stepNo": 1,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5eb8",
+                    "name": "New Account",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5dfe",
+                    "stepNo": 2,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5eb9",
+                    "name": "*Account Name",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e09",
+                    "stepNo": 3,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "final"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5eba",
+                    "name": "Phone",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e14",
+                    "stepNo": 4,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "8722664578"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ebb",
+                    "name": "Type",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e1f",
+                    "stepNo": 5,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ebc",
+                    "name": "Analyst",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e2a",
+                    "stepNo": 6,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ebd",
+                    "name": "NONAME4",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e35",
+                    "stepNo": 7,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ebe",
+                    "name": "Apparel",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e40",
+                    "stepNo": 8,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ebf",
+                    "name": "Website",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e4b",
+                    "stepNo": 9,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "newwebsite"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec0",
+                    "name": "Description",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e56",
+                    "stepNo": 10,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "we are a apparel business"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec1",
+                    "name": "Employees",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e61",
+                    "stepNo": 11,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "100"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec3",
+                    "name": "Address Search",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e6c",
+                    "stepNo": 12,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "bangalore"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec4",
+                    "name": "combobox-input-381-0-381",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e77",
+                    "stepNo": 13,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec6",
+                    "name": "Address Search_17",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e8d",
+                    "stepNo": 14,
+                    "keywordVal": "setText",
+                    "appType": "Web",
+                    "inputVal": [
+                        "bangalore"
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec7",
+                    "name": "Bangalore",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5e98",
+                    "stepNo": 15,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e01467fd842c915b5ec8",
+                    "name": "Save",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e01467fd842c915b5ea3",
+                    "stepNo": 16,
+                    "keywordVal": "click",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                },
+                {
+                    "_id": "68d0e23d67fd842c915b65d0",
+                    "name": "Success notification.Account \"final\" wa",
+                    "elementRepoId": "68d0e01467fd842c915b5dea",
+                    "elementId": "68d0e1f367fd842c915b6384",
+                    "stepNo": 17,
+                    "keywordVal": "waitForElementVisible",
+                    "appType": "Web",
+                    "inputVal": [
+                        ""
+                    ],
+                    "outputVal": "",
+                    "remarks": "",
+                    "addDetails": "",
+                    "testStepGroupId": "68d0e01467fd842c915b5eb4",
+                    "parentName": "Account creation",
+                    "modifiedBy": "677b7886e630ee1a15603de5",
+                    "__v": 0
+                }
+            ],
+            "__v": 0
+        }
+    ],
+    "associatedrepopaths": [
+        "Account creation/Login   Salesforce",
+        "Account creation/account creation",
+        "order creation/Home   Salesforce",
+        "order creation/00000201   Order   Salesforce",
+        "lead creation/Login   Salesforce",
+        "lead creation/Home   Salesforce",
+        "AvoGenius_lead creation/Home   Salesforce 8433629d-2f43-4c0d-a8a0-6974f10917be",
+        "AvoGenius_lead creation/Recently Viewed   Leads   Salesforce",
+        "Imported conversion of lead to opp/Login to Salesforce",
+        "Imported conversion of lead to opp/Create Leads",
+        "Imported conversion of lead to opp/Create Opportunity",
+        "Imported conversion of lead to opp/Logout from Salesforce"
+    ],
+    "associated": [
+        "elementRepositories\\Account creation\\Login   Salesforce.er",
+        "elementRepositories\\Account creation\\account creation.er"
+    ]
+}

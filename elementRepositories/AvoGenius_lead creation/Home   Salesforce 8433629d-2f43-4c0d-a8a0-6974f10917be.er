@@ -1,0 +1,110 @@
+{
+    "_id": "68d12f5d67fd842c915cab3a",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Home   Salesforce 8433629d-2f43-4c0d-a8a0-6974f10917be",
+    "title": "Home   Salesforce 8433629d-2f43-4c0d-a8a0-6974f10917be",
+    "folderId": "68d12f5d67fd842c915cab0a",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-22T11:13:33.742Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-22T11:13:33.742Z",
+    "displayOn": "2025-09-22T11:13:33.742Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d12f5d67fd842c915cab43",
+            "name": "Leads",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "a",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/page/home",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "b1aae8f2-b3ea-4415-a05c-b39c794aae35",
+            "identifiers": {
+                "cssselector": "a[href=\"/lightning/o/Lead/home\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[1]/one-appnav/div/one-app-nav-bar/nav/div/one-app-nav-bar-item-root[2]/a",
+                "rxpath": "/html/body/div[4]/div[1]/section/div[2]/div[1]/*[name()='one-appnav']/div/*[name()='one-app-nav-bar']/*[name()='nav']/div/*[name()='one-app-nav-bar-item-root'][2]/a",
+                "name": "None",
+                "classname": "slds-context-bar__label-action dndItem[1]",
+                "href": "/lightning/o/Lead/home",
+                "label": "Leads",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12f5d67fd842c915cab44"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12f5d67fd842c915cab45"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12f5d67fd842c915cab46"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12f5d67fd842c915cab47"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12f5d67fd842c915cab48"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12f5d67fd842c915cab49"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12f5d67fd842c915cab4a"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12f5d67fd842c915cab4b"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12f5d67fd842c915cab4c"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12f5d67fd842c915cab4d"
+                }
+            ],
+            "elementrepoid": "68d12f5d67fd842c915cab3a",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "AvoGenius_lead creation"
+}

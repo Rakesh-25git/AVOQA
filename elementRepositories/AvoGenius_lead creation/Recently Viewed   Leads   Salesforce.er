@@ -1,0 +1,434 @@
+{
+    "_id": "68d12f5e67fd842c915cab60",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Recently Viewed   Leads   Salesforce",
+    "title": "Recently Viewed   Leads   Salesforce",
+    "folderId": "68d12f5d67fd842c915cab0a",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-22T11:13:34.063Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-22T11:13:34.063Z",
+    "displayOn": "2025-09-22T11:13:34.063Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d12f5e67fd842c915cab69",
+            "name": "Demo123 abc kee",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Lead/list?filterName=__Recent",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "cde6f613-b1ac-42d9-94b5-66121dc29bac",
+            "identifiers": {
+                "cssselector": "th[class=\"slds-cell-edit\"] span div lightning-primitive-custom-cell lst-output-lookup force-lookup div a[href=\"/lightning/r/00QTZ00000NCrXy2AL/view\"] slot span",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[2]/div[1]/div/div/div/div/div/div/div/lst-object-home/div/lst-list-view-manager/lst-common-list-internal/div/div/lst-primary-display-manager/div/lst-primary-display/lst-primary-display-grid/lightning-datatable/div[2]/div/div/table/tbody/tr[1]/th/span/div/lightning-primitive-custom-cell/lst-output-lookup/force-lookup/div/a/slot/span",
+                "rxpath": "//*[@id=\"brandBand_1\"]/div/div/div/div/*[name()='lst-object-home']/div/*[name()='lst-list-view-manager']/*[name()='lst-common-list-internal']/div/div/*[name()='lst-primary-display-manager']/div/*[name()='lst-primary-display']/*[name()='lst-primary-display-grid']/*[name()='lightning-datatable']/div[2]/div/div/table/tbody/tr[1]/th/span/div/*[name()='lightning-primitive-custom-cell']/*[name()='lst-output-lookup']/*[name()='force-lookup']/div/a/*[name()='slot']/span",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "Demo123 abc kee",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12f5e67fd842c915cab6a"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12f5e67fd842c915cab6b"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12f5e67fd842c915cab6c"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12f5e67fd842c915cab6d"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12f5e67fd842c915cab6e"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12f5e67fd842c915cab6f"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12f5e67fd842c915cab70"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12f5e67fd842c915cab71"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12f5e67fd842c915cab72"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12f5e67fd842c915cab73"
+                }
+            ],
+            "elementrepoid": "68d12f5e67fd842c915cab60",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d12f5e67fd842c915cab74",
+            "name": "Mark Status as Complete",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Lead/00QTZ00000NCrXy2AL/view",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "5118bec7-4388-4ab1-9075-8520384942a7",
+            "identifiers": {
+                "cssselector": "button[class=\"slds-button slds-button_brand slds-path__mark-complete stepAction current uiButton\"] span[class=\"uiOutputText\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[2]/div[2]/div[1]/div/div/div/div[3]/div/div/one-record-home-flexipage2/forcegenerated-flexipage_lead_record_page_three_column_lead__view_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-three-col-template-desktop2/div/div/div/flexipage-record-home-scrollable-column[1]/slot/slot/flexipage-component2[1]/slot/flexipage-aura-wrapper/div/div/article/div/div/div/div[1]/div[2]/button/span",
+                "rxpath": "//*[@id=\"1790:0\"]/div[1]/div[2]/*[name()='button']/span",
+                "name": "None",
+                "classname": "uiOutputText[0]",
+                "href": "None",
+                "label": "Mark Status as Complete",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12f5e67fd842c915cab75"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12f5e67fd842c915cab76"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12f5e67fd842c915cab77"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12f5e67fd842c915cab78"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12f5e67fd842c915cab79"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12f5e67fd842c915cab7a"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12f5e67fd842c915cab7b"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12f5e67fd842c915cab7c"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12f5e67fd842c915cab7d"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12f5e67fd842c915cab7e"
+                }
+            ],
+            "elementrepoid": "68d12f5e67fd842c915cab60",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d12f5e67fd842c915cab7f",
+            "name": "Convert",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Lead/00QTZ00000NCrXy2AL/view",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "2c3557e8-5baf-411a-bb75-1c94904c9a06",
+            "identifiers": {
+                "cssselector": "span[class=\"targetingSpan slds-var-m-left_x-small runtime_sales_leadConvertModalFooter\"] button[class=\"slds-button slds-button_brand\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[3]/span/button",
+                "rxpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[3]/span/*[name()='button']",
+                "name": "None",
+                "classname": "slds-button slds-button_brand[3]",
+                "href": "None",
+                "label": "Convert",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12f5e67fd842c915cab80"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12f5e67fd842c915cab81"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12f5e67fd842c915cab82"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12f5e67fd842c915cab83"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12f5e67fd842c915cab84"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12f5e67fd842c915cab85"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12f5e67fd842c915cab86"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12f5e67fd842c915cab87"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12f5e67fd842c915cab88"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12f5e67fd842c915cab89"
+                }
+            ],
+            "elementrepoid": "68d12f5e67fd842c915cab60",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d12f5e67fd842c915cab8a",
+            "name": "Your lead has been converted",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "h2",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Lead/00QTZ00000NCrXy2AL/view",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "d955b16e-eb25-4684-a461-e3573bee2119",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]/div[1]/h2",
+                "rxpath": "//*[@id=\"content_55:2752",
+                "name": "a\"]/div/div[1]/div[1]/*[name()='h2']",
+                "classname": "h2[19]",
+                "href": "Your lead has been converted",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12f5e67fd842c915cab8b"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12f5e67fd842c915cab8c"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12f5e67fd842c915cab8d"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12f5e67fd842c915cab8e"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12f5e67fd842c915cab8f"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12f5e67fd842c915cab90"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12f5e67fd842c915cab91"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12f5e67fd842c915cab92"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12f5e67fd842c915cab93"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12f5e67fd842c915cab94"
+                }
+            ],
+            "elementrepoid": "68d12f5e67fd842c915cab60",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d12f5e67fd842c915cab95",
+            "name": "Cancel and close",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Lead/00QTZ00000NCrXy2AL/view",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "ea8c708a-81dc-44b9-ae52-b1d8407e6d98",
+            "identifiers": {
+                "cssselector": "button[title=\"Cancel and close\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[1]/button",
+                "rxpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[1]/*[name()='button']",
+                "name": "None",
+                "classname": "slds-button slds-modal__close slds-button_icon-bare uiButton--modal-closeBtn uiButton",
+                "href": "None",
+                "label": "Cancel and close",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12f5e67fd842c915cab96"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12f5e67fd842c915cab97"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12f5e67fd842c915cab98"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12f5e67fd842c915cab99"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12f5e67fd842c915cab9a"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12f5e67fd842c915cab9b"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12f5e67fd842c915cab9c"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12f5e67fd842c915cab9d"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12f5e67fd842c915cab9e"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12f5e67fd842c915cab9f"
+                }
+            ],
+            "elementrepoid": "68d12f5e67fd842c915cab60",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "AvoGenius_lead creation"
+}

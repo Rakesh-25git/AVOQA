@@ -1,0 +1,272 @@
+{
+    "_id": "68d0e01467fd842c915b5da9",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Login   Salesforce",
+    "title": "Login   Salesforce",
+    "folderId": "68d0e01367fd842c915b5da1",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-22T05:35:16.032Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-22T05:35:16.032Z",
+    "displayOn": "2025-09-22T05:35:16.032Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d0e01467fd842c915b5db2",
+            "name": "Password",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://login.salesforce.com/",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "6820571f-9121-4ae0-8152-1c9c94a75fff",
+            "identifiers": {
+                "cssselector": "input[class=\"input r4 wide mb16 mt8 password\"]",
+                "id": "password",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/input[1]",
+                "rxpath": "//*[@id=\"password\"]",
+                "name": "pw",
+                "classname": "input r4 wide mb16 mt8 password",
+                "href": "None",
+                "label": "Password",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5db3"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5db4"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5db5"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5db6"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5db7"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5db8"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5db9"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5dba"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5dbb"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5dbc"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5da9",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5dbd",
+            "name": "Username",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://login.salesforce.com/",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "b0116961-5289-484f-82ae-92f9d5ace2f9",
+            "identifiers": {
+                "cssselector": "input[class=\"input r4 wide mb16 mt8 username\"]",
+                "id": "username",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/div[1]/div/input[1]",
+                "rxpath": "//*[@id=\"username\"]",
+                "name": "username",
+                "classname": "input r4 wide mb16 mt8 username",
+                "href": "None",
+                "label": "Username",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5dbe"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5dbf"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5dc0"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5dc1"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5dc2"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5dc3"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5dc4"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5dc5"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5dc6"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5dc7"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5da9",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5dc8",
+            "name": "Login",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://login.salesforce.com/",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "6e506554-4c44-498f-bfdc-688910250648",
+            "identifiers": {
+                "cssselector": "input[id=\"Login\"]",
+                "id": "Login",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/input[2]",
+                "rxpath": "//*[@id=\"Login\"]",
+                "name": "Login",
+                "classname": "button r4 wide primary[0]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5dc9"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5dca"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5dcb"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5dcc"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5dcd"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5dce"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5dcf"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5dd0"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5dd1"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5dd2"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5da9",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "Account creation"
+}

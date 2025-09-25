@@ -1,0 +1,191 @@
+{
+    "_id": "68d12de367fd842c915ca88b",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Login   Salesforce",
+    "title": "Login   Salesforce",
+    "folderId": "68d12de367fd842c915ca883",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-22T11:07:15.769Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-22T11:07:15.769Z",
+    "displayOn": "2025-09-22T11:07:15.769Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d12de367fd842c915ca894",
+            "name": "Password",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://login.salesforce.com/",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "7179113f-246b-47ee-bbaf-94ecdeb8e94b",
+            "identifiers": {
+                "cssselector": "input[id=\"password\"]",
+                "id": "password",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/input[1]",
+                "rxpath": "//*[@id=\"password\"]",
+                "name": "pw",
+                "classname": "input r4 wide mb16 mt8 password",
+                "href": "None",
+                "label": "Password",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12de367fd842c915ca895"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12de367fd842c915ca896"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12de367fd842c915ca897"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12de367fd842c915ca898"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12de367fd842c915ca899"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12de367fd842c915ca89a"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12de367fd842c915ca89b"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12de367fd842c915ca89c"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12de367fd842c915ca89d"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12de367fd842c915ca89e"
+                }
+            ],
+            "elementrepoid": "68d12de367fd842c915ca88b",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d12de367fd842c915ca89f",
+            "name": "Login",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://login.salesforce.com/",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "e307d8ae-6888-4868-a8da-44f62f760a53",
+            "identifiers": {
+                "cssselector": "input[id=\"Login\"]",
+                "id": "Login",
+                "xpath": "/html/body/div[1]/div[1]/div/div/div[2]/div[3]/form/input[2]",
+                "rxpath": "//*[@id=\"Login\"]",
+                "name": "Login",
+                "classname": "button r4 wide primary[0]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d12de367fd842c915ca8a0"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d12de367fd842c915ca8a1"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d12de367fd842c915ca8a2"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d12de367fd842c915ca8a3"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d12de367fd842c915ca8a4"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d12de367fd842c915ca8a5"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d12de367fd842c915ca8a6"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d12de367fd842c915ca8a7"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d12de367fd842c915ca8a8"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d12de367fd842c915ca8a9"
+                }
+            ],
+            "elementrepoid": "68d12de367fd842c915ca88b",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "lead creation"
+}

@@ -1,0 +1,110 @@
+{
+    "_id": "68d101c167fd842c915bc28d",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "00000201   Order   Salesforce",
+    "title": "00000201   Order   Salesforce",
+    "folderId": "68d101c067fd842c915bc147",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-22T07:58:57.522Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-22T07:58:57.522Z",
+    "displayOn": "2025-09-22T07:58:57.522Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d101c167fd842c915bc296",
+            "name": "Success notification.Order \"00000201\" w",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Order/801TZ00000UwQiVYAV/view",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "19828fe5-235d-49c8-9ae4-dbdb240ebcad",
+            "identifiers": {
+                "cssselector": "div[class=\"toastContainer slds-notify_container slds-is-relative\"] div[class=\"slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage\"]",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div[1]/div/div",
+                "rxpath": "/html/body/div[6]/div[1]/div/div",
+                "name": "None",
+                "classname": "slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d101c167fd842c915bc297"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d101c167fd842c915bc298"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d101c167fd842c915bc299"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d101c167fd842c915bc29a"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d101c167fd842c915bc29b"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d101c167fd842c915bc29c"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d101c167fd842c915bc29d"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d101c167fd842c915bc29e"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d101c167fd842c915bc29f"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d101c167fd842c915bc2a0"
+                }
+            ],
+            "elementrepoid": "68d101c167fd842c915bc28d",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "order creation"
+}

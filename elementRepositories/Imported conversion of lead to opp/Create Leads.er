@@ -1,0 +1,1298 @@
+{
+    "_id": "68d4d49480be376d180f3946",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Create Leads",
+    "title": "Create Leads",
+    "folderId": "68d4d49480be376d180f3915",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-25T05:35:16.891Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-25T05:35:16.891Z",
+    "displayOn": "2025-09-25T05:35:16.891Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d4d49480be376d180f394f",
+            "name": "Leads",
+            "height": 21,
+            "hiddentag": "No",
+            "left": 496,
+            "tag": "span",
+            "top": 93,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/page/home",
+            "viewTop": 94.80000305175781,
+            "width": 36,
+            "fullSS": true,
+            "tempOrderId": "3f32d1dd-ba01-4f62-a9b7-f6dfd18fc634",
+            "identifiers": {
+                "rxpath": "(//span[text()='Leads'])[1]",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[1]/one-appnav/div/one-app-nav-bar/nav/div/one-app-nav-bar-item-root[2]/a/span",
+                "cssselector": "body > div.desktop.container.forceStyle.oneOne.navexDesktopLayoutContainer.lafAppLayoutHost.forceAccess.sales-slds-cmp-850-0.sales-slds.sales-slds-compact > div.viewport > section > div.none.navexStandardManager > div.slds-no-print.oneAppNavContainer > one-appnav > div > one-app-nav-bar > nav > div > one-app-nav-bar-item-root:nth-child(2) > a > span",
+                "id": "None",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a5bcab9122d74bde5a48a3"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a5bcab9122d74bde5a48a4"
+                },
+                {
+                    "id": 3,
+                    "identifier": "cssselector",
+                    "_id": "68a5bcab9122d74bde5a48a5"
+                },
+                {
+                    "id": 4,
+                    "identifier": "id",
+                    "_id": "68a5bcab9122d74bde5a48a6"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a5bcab9122d74bde5a48a7"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a5bcab9122d74bde5a48a8"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a5bcab9122d74bde5a48a9"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a5bcab9122d74bde5a48aa"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a5bcab9122d74bde5a48ab"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a5bcab9122d74bde5a48ac"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f395a",
+            "name": "Salutation",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 307,
+            "tag": "button",
+            "top": 256,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 255,
+            "width": 204,
+            "fullSS": true,
+            "tempOrderId": "e1a6bcf3-d6ad-43bf-aa77-058b012c35e8",
+            "identifiers": {
+                "classname": "slds-combobox__input slds-input_faux fix-slds-input_faux slds-combobox__input-value",
+                "cssselector": "None",
+                "href": "None",
+                "id": "combobox-button-245",
+                "label": "--None--",
+                "name": "salutation",
+                "rxpath": "//div[1]/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div/button",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[2]/slot/records-record-layout-item[1]/div/span/slot/records-record-layout-input-name/lightning-input-name/fieldset/div/div/div[1]/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[1]/button"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "xpath",
+                    "_id": "68a570cc9122d74bde59da78"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a570cc9122d74bde59da79"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a570cc9122d74bde59da7a"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570cc9122d74bde59da7b"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570cc9122d74bde59da7c"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570cc9122d74bde59da7d"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570cc9122d74bde59da7e"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570cc9122d74bde59da7f"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f3963",
+            "name": "Salutation Values",
+            "height": 203,
+            "hiddentag": "No",
+            "left": 143,
+            "tag": "div",
+            "top": 287,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 287,
+            "width": 207,
+            "fullSS": true,
+            "tempOrderId": "b333424d-bb85-4766-aa64-04968b973632",
+            "identifiers": {
+                "classname": "slds-listbox slds-listbox_vertical slds-dropdown slds-dropdown_fluid slds-dropdown_left slds-dropdown_length-with-icon-7",
+                "cssselector": "None",
+                "href": "None",
+                "id": "dropdown-element-245",
+                "label": "None",
+                "name": "None",
+                "rxpath": "//div[1]/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[2]",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[2]/slot/records-record-layout-item[1]/div/span/slot/records-record-layout-input-name/lightning-input-name/fieldset/div/div/div[1]/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[2]"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "xpath",
+                    "_id": "68a570cc9122d74bde59da88"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a570cc9122d74bde59da89"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a570cc9122d74bde59da8a"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570cc9122d74bde59da8b"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570cc9122d74bde59da8c"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570cc9122d74bde59da8d"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570cc9122d74bde59da8e"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570cc9122d74bde59da8f"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f396c",
+            "name": "First Name",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 305,
+            "tag": "input",
+            "top": 310,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 309,
+            "width": 207,
+            "fullSS": true,
+            "tempOrderId": "2073965c-d501-4975-a988-ecc9195cb68a",
+            "identifiers": {
+                "classname": "slds-input",
+                "cssselector": "None",
+                "href": "None",
+                "id": "input-249",
+                "label": "First Name",
+                "name": "firstName",
+                "rxpath": "//div[2]/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[2]/slot/records-record-layout-item[1]/div/span/slot/records-record-layout-input-name/lightning-input-name/fieldset/div/div/div[2]/lightning-input/lightning-primitive-input-simple/div[1]/div/input"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "xpath",
+                    "_id": "68a570cc9122d74bde59da98"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a570cc9122d74bde59da99"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a570cc9122d74bde59da9a"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570cc9122d74bde59da9b"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570cc9122d74bde59da9c"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570cc9122d74bde59da9d"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570cc9122d74bde59da9e"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570cc9122d74bde59da9f"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f3975",
+            "name": "Last Name",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 307,
+            "tag": "input",
+            "top": 423,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 423,
+            "width": 204,
+            "fullSS": true,
+            "tempOrderId": "cd24c571-ba9f-452b-9183-bae619e5eb68",
+            "identifiers": {
+                "classname": "slds-input",
+                "cssselector": "None",
+                "href": "None",
+                "id": "input-253",
+                "label": "Last Name",
+                "name": "lastName",
+                "rxpath": "//lightning-input-name/fieldset/div/div/div[4]/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[2]/slot/records-record-layout-item[1]/div/span/slot/records-record-layout-input-name/lightning-input-name/fieldset/div/div/div[4]/lightning-input/lightning-primitive-input-simple/div[1]/div/input"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "xpath",
+                    "_id": "68a570cd9122d74bde59daa8"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a570cd9122d74bde59daa9"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a570cd9122d74bde59daaa"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570cd9122d74bde59daab"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570cd9122d74bde59daac"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570cd9122d74bde59daad"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570cd9122d74bde59daae"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570cd9122d74bde59daaf"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f397e",
+            "name": "Email",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 305,
+            "tag": "input",
+            "top": 546,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 347.3999938964844,
+            "width": 203,
+            "fullSS": true,
+            "tempOrderId": "25204c5f-247f-4b2c-8d17-983e23d4f285",
+            "identifiers": {
+                "rxpath": "//input[@inputmode='email']",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[3]/slot/records-record-layout-item[1]/div/span/slot/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "cssselector": "None",
+                "id": "input-262",
+                "name": "Email",
+                "classname": "slds-input",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a580a49122d74bde59fc06"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a580a49122d74bde59fc07"
+                },
+                {
+                    "id": 3,
+                    "identifier": "cssselector",
+                    "_id": "68a580a49122d74bde59fc08"
+                },
+                {
+                    "id": 4,
+                    "identifier": "id",
+                    "_id": "68a580a49122d74bde59fc09"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a580a49122d74bde59fc0a"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a580a49122d74bde59fc0b"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a580a49122d74bde59fc0c"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a580a49122d74bde59fc0d"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a580a49122d74bde59fc0e"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a580a49122d74bde59fc0f"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f3989",
+            "name": "Company",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 645,
+            "tag": "input",
+            "top": 546,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 347.3999938964844,
+            "width": 203,
+            "fullSS": true,
+            "tempOrderId": "6b7c3207-9190-4b75-8728-1fef5e5dfa6f",
+            "identifiers": {
+                "rxpath": "//input[@name='Company']",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[3]/slot/records-record-layout-item[2]/div/span/slot/records-record-layout-base-input/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "cssselector": "None",
+                "id": "input-266",
+                "name": "Company",
+                "classname": "slds-input",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a5874e9122d74bde59fd6d"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a5874e9122d74bde59fd6e"
+                },
+                {
+                    "id": 3,
+                    "identifier": "cssselector",
+                    "_id": "68a5874e9122d74bde59fd6f"
+                },
+                {
+                    "id": 4,
+                    "identifier": "id",
+                    "_id": "68a5874e9122d74bde59fd70"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a5874e9122d74bde59fd71"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a5874e9122d74bde59fd72"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a5874e9122d74bde59fd73"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a5874e9122d74bde59fd74"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a5874e9122d74bde59fd75"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a5874e9122d74bde59fd76"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f3994",
+            "name": "Phone",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 305,
+            "tag": "input",
+            "top": 591,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 391.3999938964844,
+            "width": 207,
+            "fullSS": true,
+            "tempOrderId": "1c35cf95-f75f-45e1-a45b-f600a6712bd6",
+            "identifiers": {
+                "rxpath": "//input[@name='Phone']",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/div/records-lwc-record-layout/forcegenerated-detailpanel_lead___012000000000000aaa___full___create___recordlayout2/records-record-layout-block/slot/records-record-layout-section[1]/div/div/dl/slot/records-record-layout-row[4]/slot/records-record-layout-item[1]/div/span/slot/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "id": "input-270",
+                "name": "Phone",
+                "classname": "slds-input",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none",
+                "cssselector": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a587d49122d74bde59fd7d"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a587d49122d74bde59fd7e"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a587d49122d74bde59fd7f"
+                },
+                {
+                    "id": 4,
+                    "identifier": "name",
+                    "_id": "68a587d49122d74bde59fd80"
+                },
+                {
+                    "id": 5,
+                    "identifier": "classname",
+                    "_id": "68a587d49122d74bde59fd81"
+                },
+                {
+                    "id": 6,
+                    "identifier": "href",
+                    "_id": "68a587d49122d74bde59fd82"
+                },
+                {
+                    "id": 7,
+                    "identifier": "label",
+                    "_id": "68a587d49122d74bde59fd83"
+                },
+                {
+                    "id": 8,
+                    "identifier": "custom1",
+                    "_id": "68a587d49122d74bde59fd84"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom2",
+                    "_id": "68a587d49122d74bde59fd85"
+                },
+                {
+                    "id": 10,
+                    "identifier": "cssselector",
+                    "_id": "68a587d49122d74bde59fd86"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f399f",
+            "name": "Save",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 595,
+            "tag": "button",
+            "top": 576,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&uid=173936572320624088&backgroundContext=%2Flightning%2Fo%2FLead%2Flist%3FfilterName%3D__Recent",
+            "viewTop": 577.5784301757812,
+            "width": 62,
+            "fullSS": true,
+            "tempOrderId": "0947f8af-980e-404c-83e2-a5c275f593bd",
+            "identifiers": {
+                "classname": "slds-button slds-button_brand",
+                "cssselector": "None",
+                "href": "None",
+                "id": "None",
+                "label": "Save",
+                "name": "SaveEdit",
+                "rxpath": "//li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot/slot/lightning-button/button",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/records-modal-lwc-detail-panel-wrapper/records-record-layout-event-broker/slot/records-lwc-detail-panel/records-base-record-form/div/div[2]/div/records-form-footer/div/div/div/runtime_platform_actions-actions-ribbon/ul/li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot[1]/slot/lightning-button/button"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "xpath",
+                    "_id": "68a570ce9122d74bde59dae8"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a570ce9122d74bde59dae9"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a570ce9122d74bde59daea"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570ce9122d74bde59daeb"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570ce9122d74bde59daec"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570ce9122d74bde59daed"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570ce9122d74bde59daee"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570ce9122d74bde59daef"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49480be376d180f39a8",
+            "name": "Converted ",
+            "height": 21,
+            "hiddentag": "No",
+            "left": 711,
+            "tag": "span",
+            "top": 269,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Lead/00QEi00000Iyf5xMAB/view",
+            "viewTop": 270,
+            "width": 63,
+            "fullSS": true,
+            "tempOrderId": "12c3f344-2e1a-4753-a764-282b36324e04",
+            "identifiers": {
+                "rxpath": "(//span[text()='Converted'])[1]",
+                "classname": "title slds-path__title[6]",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[2]/div[2]/div[1]/div/div/div/div[3]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-lead_-record_-page___-lead___-v-i-e-w___-l-m-t___1718022306000/forcegenerated-flexipage_lead_record_page_lead__view_js___lmt___1661149428000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-with-subheader-template-desktop2/div/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/article/div/div/div/div[1]/div[1]/div[1]/div/div/ul/li[7]/a/span[2]",
+                "name": "None",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a589209122d74bde59fee4"
+                },
+                {
+                    "id": 2,
+                    "identifier": "classname",
+                    "_id": "68a589209122d74bde59fee5"
+                },
+                {
+                    "id": 3,
+                    "identifier": "cssselector",
+                    "_id": "68a589209122d74bde59fee6"
+                },
+                {
+                    "id": 4,
+                    "identifier": "id",
+                    "_id": "68a589209122d74bde59fee7"
+                },
+                {
+                    "id": 5,
+                    "identifier": "xpath",
+                    "_id": "68a589209122d74bde59fee8"
+                },
+                {
+                    "id": 6,
+                    "identifier": "name",
+                    "_id": "68a589209122d74bde59fee9"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a589209122d74bde59feea"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a589209122d74bde59feeb"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a589209122d74bde59feec"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a589209122d74bde59feed"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f39b3",
+            "name": "Select Converted status",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 856,
+            "tag": "span",
+            "top": 263,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Lead/00QEi00000Iyf5xMAB/view",
+            "viewTop": 265.20001220703125,
+            "width": 139,
+            "fullSS": true,
+            "tempOrderId": "cdcf4455-f19d-44f7-9b6e-650af237bf5d",
+            "identifiers": {
+                "rxpath": "(//span[text()='Select Converted Status'])[1]",
+                "cssselector": "div[class=\"slds-grid slds-path__action runtime_sales_pathassistantPathAssistantHeader\"] span",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[2]/div[2]/div[1]/div/div/div/div[3]/div/div/one-record-home-flexipage2/forcegenerated-adg-rollup_component___force-generated__flexipage_-record-page___-lead_-record_-page___-lead___-v-i-e-w___-l-m-t___1718022306000/forcegenerated-flexipage_lead_record_page_lead__view_js___lmt___1661149428000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-with-subheader-template-desktop2/div/div[2]/slot/flexipage-component2/slot/flexipage-aura-wrapper/div/div/article/div/div/div/div[1]/div[2]/button/span",
+                "name": "None",
+                "classname": "uiOutputText[46]",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a589559122d74bde59fef4"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a589559122d74bde59fef5"
+                },
+                {
+                    "id": 3,
+                    "identifier": "id",
+                    "_id": "68a589559122d74bde59fef6"
+                },
+                {
+                    "id": 4,
+                    "identifier": "xpath",
+                    "_id": "68a589559122d74bde59fef7"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a589559122d74bde59fef8"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a589559122d74bde59fef9"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a589559122d74bde59fefa"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a589559122d74bde59fefb"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a589559122d74bde59fefc"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a589559122d74bde59fefd"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f39be",
+            "name": "Account Name*",
+            "height": 36,
+            "hiddentag": "No",
+            "left": 198,
+            "tag": "input",
+            "top": 178,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Lead/00QEi00000Izu1NMAR/view",
+            "viewTop": 178.0500030517578,
+            "width": 243,
+            "fullSS": false,
+            "tempOrderId": "d0829025-9226-4e9d-b698-a0cfe4d7d856",
+            "identifiers": {
+                "name": "//fieldset[1]/div/div/div[2]/div[1]/div[2]/div/div[1]/div/input",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]/fieldset[1]/div/div/div[2]/div[1]/div[2]/div[2]/div[1]/div/input",
+                "href": "Account Name*",
+                "classname": "input[80]",
+                "id": "1:3649",
+                "label": "243",
+                "cssselector": "null",
+                "rxpath": "a",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "name",
+                    "_id": "68a589979122d74bde59ff04"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a589979122d74bde59ff05"
+                },
+                {
+                    "id": 3,
+                    "identifier": "href",
+                    "_id": "68a589979122d74bde59ff06"
+                },
+                {
+                    "id": 4,
+                    "identifier": "classname",
+                    "_id": "68a589979122d74bde59ff07"
+                },
+                {
+                    "id": 5,
+                    "identifier": "id",
+                    "_id": "68a589979122d74bde59ff08"
+                },
+                {
+                    "id": 6,
+                    "identifier": "label",
+                    "_id": "68a589979122d74bde59ff09"
+                },
+                {
+                    "id": 7,
+                    "identifier": "cssselector",
+                    "_id": "68a589979122d74bde59ff0a"
+                },
+                {
+                    "id": 8,
+                    "identifier": "rxpath",
+                    "_id": "68a589979122d74bde59ff0b"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a589979122d74bde59ff0c"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a589979122d74bde59ff0d"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f39c9",
+            "name": "Account Name*2",
+            "height": 36,
+            "hiddentag": "No",
+            "left": 198,
+            "tag": "input",
+            "top": 178,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Lead/00QEi00000Izu1NMAR/view",
+            "viewTop": 178.0500030517578,
+            "width": 243,
+            "fullSS": false,
+            "tempOrderId": "d0829025-9226-4e9d-b698-a0cfe4d7d856",
+            "identifiers": {
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div[1]/fieldset[1]/div/div/div[2]/div[1]/div[2]/div[2]/div[1]/div/input",
+                "name": "//fieldset[1]/div/div/div[2]/div[1]/div[2]/div/div[1]/div/input",
+                "href": "Account Name*",
+                "cssselector": "null",
+                "classname": "input[80]",
+                "id": "1:3649",
+                "rxpath": "a",
+                "label": "243",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "xpath",
+                    "_id": "68a589c19122d74bde59ff14"
+                },
+                {
+                    "id": 2,
+                    "identifier": "name",
+                    "_id": "68a589c19122d74bde59ff15"
+                },
+                {
+                    "id": 3,
+                    "identifier": "href",
+                    "_id": "68a589c19122d74bde59ff16"
+                },
+                {
+                    "id": 4,
+                    "identifier": "cssselector",
+                    "_id": "68a589c19122d74bde59ff17"
+                },
+                {
+                    "id": 5,
+                    "identifier": "classname",
+                    "_id": "68a589c19122d74bde59ff18"
+                },
+                {
+                    "id": 6,
+                    "identifier": "id",
+                    "_id": "68a589c19122d74bde59ff19"
+                },
+                {
+                    "id": 7,
+                    "identifier": "rxpath",
+                    "_id": "68a589c19122d74bde59ff1a"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a589c19122d74bde59ff1b"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a589c19122d74bde59ff1c"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a589c19122d74bde59ff1d"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f39d4",
+            "name": "Go to Leads",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 787,
+            "tag": "button",
+            "top": 546,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Lead/00QEi00000Izu1NMAR/view",
+            "viewTop": 546,
+            "width": 104,
+            "fullSS": false,
+            "tempOrderId": "d36c1f88-f1e9-4155-9be0-62fff1749d10",
+            "identifiers": {
+                "rxpath": "//button[text()='Go to Leads']",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[3]/button[2]",
+                "classname": "slds-button slds-button_brand[2]",
+                "label": "Go to Leads",
+                "cssselector": "null",
+                "id": "null",
+                "name": "null",
+                "href": "null",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a58ac39122d74bde59ff44"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a58ac39122d74bde59ff45"
+                },
+                {
+                    "id": 3,
+                    "identifier": "classname",
+                    "_id": "68a58ac39122d74bde59ff46"
+                },
+                {
+                    "id": 4,
+                    "identifier": "label",
+                    "_id": "68a58ac39122d74bde59ff47"
+                },
+                {
+                    "id": 5,
+                    "identifier": "cssselector",
+                    "_id": "68a58ac39122d74bde59ff48"
+                },
+                {
+                    "id": 6,
+                    "identifier": "id",
+                    "_id": "68a58ac39122d74bde59ff49"
+                },
+                {
+                    "id": 7,
+                    "identifier": "name",
+                    "_id": "68a58ac39122d74bde59ff4a"
+                },
+                {
+                    "id": 8,
+                    "identifier": "href",
+                    "_id": "68a58ac39122d74bde59ff4b"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a58ac39122d74bde59ff4c"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a58ac39122d74bde59ff4d"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f39df",
+            "name": "Newbutton",
+            "height": 34,
+            "hiddentag": "No",
+            "left": 1159,
+            "tag": "button",
+            "top": 115,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Lead/pipelineInspection?filterName=00BWd000002T4dXMAS",
+            "viewTop": 114.5,
+            "width": 61,
+            "tempOrderId": "7256dc6a-66f5-41eb-b172-4d2f590e200b",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[2]/div[2]/div[1]/div/div/div/div/div/div/div/div[1]/div/div[2]/div/div/div/runtime_pipeline_inspector-actions-button-group/lightning-button-group/div/slot/lightning-button[1]/button",
+                "rxpath": "//div[2]/div/div/div/runtime_pipeline_inspector-actions-button-group/lightning-button-group/div/slot/lightning-button[1]/button",
+                "name": "New",
+                "classname": "slds-button slds-button_neutral slds-button_first",
+                "href": "None",
+                "label": "New",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a57dbd9122d74bde59f42c"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68a57dbd9122d74bde59f42d"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68a57dbd9122d74bde59f42e"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a57dbd9122d74bde59f42f"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a57dbd9122d74bde59f430"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a57dbd9122d74bde59f431"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a57dbd9122d74bde59f432"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a57dbd9122d74bde59f433"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a57dbd9122d74bde59f434"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a57dbd9122d74bde59f435"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "2dea5547-10a1-4ba2-a395-49f1da279c4b",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f39ea",
+            "name": "Convertbtn",
+            "height": 34,
+            "hiddentag": "No",
+            "left": 1370,
+            "tag": "button",
+            "top": 742,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Lead/00QWd0000066kkgMAA/view",
+            "viewTop": 742.21875,
+            "width": 83,
+            "tempOrderId": "c124538c-3aa6-4583-93e8-f6c771d21eaf",
+            "identifiers": {
+                "cssselector": "button[class=\"slds-button slds-button_brand\"]",
+                "xpath": "/html/body/div[4]/div[2]/div[3]/div[2]/div/div[3]/span/button",
+                "rxpath": "//div[3]/span/button",
+                "classname": "slds-button slds-button_brand",
+                "label": "Convert",
+                "id": "None",
+                "name": "None",
+                "href": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a590dd9122d74bde5a05fd"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a590dd9122d74bde5a05fe"
+                },
+                {
+                    "id": 3,
+                    "identifier": "rxpath",
+                    "_id": "68a590dd9122d74bde5a05ff"
+                },
+                {
+                    "id": 4,
+                    "identifier": "classname",
+                    "_id": "68a590dd9122d74bde5a0600"
+                },
+                {
+                    "id": 5,
+                    "identifier": "label",
+                    "_id": "68a590dd9122d74bde5a0601"
+                },
+                {
+                    "id": 6,
+                    "identifier": "id",
+                    "_id": "68a590dd9122d74bde5a0602"
+                },
+                {
+                    "id": 7,
+                    "identifier": "name",
+                    "_id": "68a590dd9122d74bde5a0603"
+                },
+                {
+                    "id": 8,
+                    "identifier": "href",
+                    "_id": "68a590dd9122d74bde5a0604"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a590dd9122d74bde5a0605"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a590dd9122d74bde5a0606"
+                }
+            ],
+            "elementrepoid": "68d4d49480be376d180f3946",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "0f957558-3b32-4dc2-b316-49893eeb39e0",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        }
+    ],
+    "parentPath": "Imported conversion of lead to opp"
+}

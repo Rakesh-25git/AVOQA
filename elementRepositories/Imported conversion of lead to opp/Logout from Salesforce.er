@@ -1,0 +1,169 @@
+{
+    "_id": "68d4d49580be376d180f3a43",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Logout from Salesforce",
+    "title": "Logout from Salesforce",
+    "folderId": "68d4d49480be376d180f3915",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-25T05:35:17.239Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-25T05:35:17.239Z",
+    "displayOn": "2025-09-25T05:35:17.239Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d4d49580be376d180f3a4c",
+            "name": "Profile Icon",
+            "height": 33,
+            "hiddentag": "No",
+            "left": 1010,
+            "tag": "span",
+            "top": 43,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Contact/003Ei00000b0ecsIAA/view",
+            "viewTop": 42.60000228881836,
+            "width": 32,
+            "fullSS": true,
+            "tempOrderId": "829ef3f6-8d85-4afa-a41b-38025d915168",
+            "identifiers": {
+                "classname": "uiImage[0]",
+                "cssselector": "div[class=\"profileTrigger branding-user-profile bgimg slds-avatar slds-avatar_profile-image-small circular forceEntityIcon\"] span",
+                "href": "None",
+                "id": "None",
+                "label": "None",
+                "name": "None",
+                "rxpath": "//button/div/span[1]/div/span",
+                "xpath": "/html/body/div[4]/div[1]/section/header/div[2]/span/div[2]/ul/li[7]/span/div/button/div/span[1]/div/span"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a570d59122d74bde59dc93"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68a570d59122d74bde59dc94"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68a570d59122d74bde59dc95"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570d59122d74bde59dc96"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570d59122d74bde59dc97"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570d59122d74bde59dc98"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570d59122d74bde59dc99"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570d59122d74bde59dc9a"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f3a43",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f3a55",
+            "name": "Log Out",
+            "height": 21,
+            "hiddentag": "No",
+            "left": 821,
+            "tag": "a",
+            "top": 147,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/r/Contact/003Ei00000b0ecsIAA/view",
+            "viewTop": 147.40000915527344,
+            "width": 50,
+            "fullSS": true,
+            "tempOrderId": "a2bad88b-9808-4aab-9f7e-c7b19466b7c3",
+            "identifiers": {
+                "classname": "profile-link-label logout uiOutputURL",
+                "cssselector": "a[class=\"profile-link-label logout uiOutputURL\"]",
+                "href": "/secur/logout.jsp",
+                "id": "None",
+                "label": "Log Out",
+                "name": "None",
+                "rxpath": "//div[2]/div/a[2]",
+                "xpath": "/html/body/div[4]/div[2]/div[2]/div[1]/div[2]/div/div[2]/div/a[2]"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68a570d59122d74bde59dca3"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68a570d59122d74bde59dca4"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68a570d59122d74bde59dca5"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68a570d59122d74bde59dca6"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a570d59122d74bde59dca7"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a570d59122d74bde59dca8"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a570d59122d74bde59dca9"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a570d59122d74bde59dcaa"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f3a43",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "Imported conversion of lead to opp"
+}

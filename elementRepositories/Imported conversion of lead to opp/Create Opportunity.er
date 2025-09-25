@@ -1,0 +1,455 @@
+{
+    "_id": "68d4d49580be376d180f39fc",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "Create Opportunity",
+    "title": "Create Opportunity",
+    "folderId": "68d4d49480be376d180f3915",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-25T05:35:17.098Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-25T05:35:17.098Z",
+    "displayOn": "2025-09-25T05:35:17.098Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "elements": [
+        {
+            "_id": "68d4d49580be376d180f3a05",
+            "name": "Opportunities",
+            "height": 21,
+            "hiddentag": "No",
+            "left": 579,
+            "tag": "span",
+            "top": 93,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Lead/list?filterName=__Recent",
+            "viewTop": 93.5999984741211,
+            "width": 83,
+            "fullSS": true,
+            "tempOrderId": "b241a373-99fe-471f-abe1-135e4cd1fe2c",
+            "identifiers": {
+                "rxpath": "//span[text()='Opportunities']",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[1]/one-appnav/div/one-app-nav-bar/nav/div/one-app-nav-bar-item-root[5]/a/span",
+                "cssselector": "None",
+                "id": "None",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a592889122d74bde5a0922"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a592889122d74bde5a0923"
+                },
+                {
+                    "id": 3,
+                    "identifier": "cssselector",
+                    "_id": "68a592889122d74bde5a0924"
+                },
+                {
+                    "id": 4,
+                    "identifier": "id",
+                    "_id": "68a592889122d74bde5a0925"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68a592889122d74bde5a0926"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68a592889122d74bde5a0927"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a592889122d74bde5a0928"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a592889122d74bde5a0929"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a592889122d74bde5a092a"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a592889122d74bde5a092b"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f39fc",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f3a10",
+            "name": "Recently Viewed",
+            "height": 460,
+            "hiddentag": "No",
+            "left": 12,
+            "tag": "table",
+            "top": 269,
+            "url": "https://slkamerica--uat.sandbox.lightning.force.com/lightning/o/Opportunity/list?filterName=__Recent",
+            "viewTop": 269.3000183105469,
+            "width": 1505,
+            "fullSS": true,
+            "tempOrderId": "3420378e-bfb8-44b0-8fe8-d66df49dbec1",
+            "identifiers": {
+                "rxpath": "(//div[@class='slds-table_header-fixed_container slds-scrollable_x'])[1]",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[2]/div[1]/div/div/div/div/div/div/div/div[2]/div/div[1]/div[2]/div[2]/div[1]/div/div/table",
+                "cssselector": "table[class=\"slds-table forceRecordLayout slds-table_header-fixed slds-table--header-fixed slds-table_edit slds-table--edit slds-table_bordered slds-table--bordered resizable-cols slds-table--resizable-cols uiVirtualDataTable slds-no-cell-focus\"]",
+                "classname": "slds-table forceRecordLayout slds-table_header-fixed slds-table--header-fixed slds-table_edit slds-table--edit slds-table_bordered slds-table--bordered resizable-cols slds-table--resizable-cols uiVirtualDataTable slds-no-cell-focus",
+                "id": "None",
+                "name": "None",
+                "href": "None",
+                "label": "None",
+                "custom1": "none",
+                "custom2": "none"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a6c0d19122d74bde5a7a2a"
+                },
+                {
+                    "id": 2,
+                    "identifier": "xpath",
+                    "_id": "68a6c0d19122d74bde5a7a2b"
+                },
+                {
+                    "id": 3,
+                    "identifier": "cssselector",
+                    "_id": "68a6c0d19122d74bde5a7a2c"
+                },
+                {
+                    "id": 4,
+                    "identifier": "classname",
+                    "_id": "68a6c0d19122d74bde5a7a2d"
+                },
+                {
+                    "id": 5,
+                    "identifier": "id",
+                    "_id": "68a6c0d19122d74bde5a7a2e"
+                },
+                {
+                    "id": 6,
+                    "identifier": "name",
+                    "_id": "68a6c0d19122d74bde5a7a2f"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a6c0d19122d74bde5a7a30"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a6c0d19122d74bde5a7a31"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a6c0d19122d74bde5a7a32"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a6c0d19122d74bde5a7a33"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f39fc",
+            "appType": "Web",
+            "isCustom": false,
+            "mapping": null,
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f3a1b",
+            "name": "Recently Viewed2",
+            "height": 515,
+            "hiddentag": "No",
+            "left": 16,
+            "tag": "table",
+            "top": 268,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Opportunity/list?filterName=__Recent",
+            "viewTop": 272,
+            "width": 1885,
+            "xpath": "NaN",
+            "fullSS": false,
+            "tempOrderId": "8a2d4b55-1eef-499e-9865-2adcc8802a65",
+            "identifiers": {
+                "rxpath": "//table[@aria-label='Recently Viewed']",
+                "cssselector": "table[aria-label='Recently Viewed']",
+                "classname": "slds-table slds-table_header-fixed slds-table_bordered slds-table_edit slds-table_resizable-cols",
+                "xpath": "/html/body/div[4]/div[1]/section/div[1]/div[2]/div[1]/div/div/div/div/div/div/div/lst-object-home/div/lst-list-view-manager/lst-common-list-internal/div/div/lst-primary-display-manager/div/lst-primary-display/lst-primary-display-grid/lightning-datatable/div[2]/div/div/table",
+                "id": "None",
+                "name": "None",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "rxpath",
+                    "_id": "68a6c0cb9122d74bde5a7a1a"
+                },
+                {
+                    "id": 2,
+                    "identifier": "cssselector",
+                    "_id": "68a6c0cb9122d74bde5a7a1b"
+                },
+                {
+                    "id": 3,
+                    "identifier": "classname",
+                    "_id": "68a6c0cb9122d74bde5a7a1c"
+                },
+                {
+                    "id": 4,
+                    "identifier": "xpath",
+                    "_id": "68a6c0cb9122d74bde5a7a1d"
+                },
+                {
+                    "id": 5,
+                    "identifier": "id",
+                    "_id": "68a6c0cb9122d74bde5a7a1e"
+                },
+                {
+                    "id": 6,
+                    "identifier": "name",
+                    "_id": "68a6c0cb9122d74bde5a7a1f"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68a6c0cb9122d74bde5a7a20"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68a6c0cb9122d74bde5a7a21"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68a6c0cb9122d74bde5a7a22"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68a6c0cb9122d74bde5a7a23"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f39fc",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "daac529e-5bf9-4060-bc9c-d626f3b435b7",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f3a26",
+            "name": "Account Name",
+            "height": 51,
+            "hiddentag": "No",
+            "left": 370,
+            "tag": "div",
+            "top": 238,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Account/001Wd00000BuZ6SIAV/view",
+            "viewTop": 238,
+            "width": 277,
+            "tempOrderId": "ee536836-ef3b-4862-a8e8-06f4b3bdb19b",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-flexipage_account_record_page_three_column_account__view_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-three-col-template-desktop2/div/div/div/flexipage-record-home-scrollable-column[1]/slot/slot/flexipage-component2/slot/flexipage-tabset2/div/lightning-tabset/div/slot/slot/flexipage-tab2[1]/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[1]/slot/record_flexipage-record-field/div/div",
+                "rxpath": "//flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[1]/slot/record_flexipage-record-field/div/div",
+                "name": "None",
+                "classname": "slds-form-element slds-hint-parent test-id__output-root slds-form-element_edit slds-form-element_readonly slds-form-element_stacked",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68ac076c9122d74bde5b9fd6"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68ac076c9122d74bde5b9fd7"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68ac076c9122d74bde5b9fd8"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68ac076c9122d74bde5b9fd9"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68ac076c9122d74bde5b9fda"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68ac076c9122d74bde5b9fdb"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68ac076c9122d74bde5b9fdc"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68ac076c9122d74bde5b9fdd"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68ac076c9122d74bde5b9fde"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68ac076c9122d74bde5b9fdf"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f39fc",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "3aa01547-3024-4310-91ab-332612771c20",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        },
+        {
+            "_id": "68d4d49580be376d180f3a31",
+            "name": "Account Owner",
+            "height": 51,
+            "hiddentag": "No",
+            "left": 370,
+            "tag": "div",
+            "top": 238,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Account/001Wd00000BuZ6SIAV/view",
+            "viewTop": 238,
+            "width": 284,
+            "tempOrderId": "d6e40c84-ce2a-4444-acb4-e9032175347d",
+            "identifiers": {
+                "custom1": "None",
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[2]/div[2]/div[1]/div/div/div/div/div/div/one-record-home-flexipage2/forcegenerated-flexipage_account_record_page_three_column_account__view_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-three-col-template-desktop2/div/div/div/flexipage-record-home-scrollable-column[1]/slot/slot/flexipage-component2/slot/flexipage-tabset2/div/lightning-tabset/div/slot/slot/flexipage-tab2[1]/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[1]/slot/record_flexipage-record-field/div/div",
+                "rxpath": "//flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[1]/slot/record_flexipage-record-field/div/div",
+                "name": "None",
+                "classname": "slds-form-element slds-hint-parent test-id__output-root slds-form-element_edit slds-form-element_readonly slds-form-element_stacked",
+                "href": "None",
+                "label": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68ac07899122d74bde5ba00e"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68ac07899122d74bde5ba00f"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68ac07899122d74bde5ba010"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68ac07899122d74bde5ba011"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68ac07899122d74bde5ba012"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68ac07899122d74bde5ba013"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68ac07899122d74bde5ba014"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68ac07899122d74bde5ba015"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68ac07899122d74bde5ba016"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68ac07899122d74bde5ba017"
+                }
+            ],
+            "elementrepoid": "68d4d49580be376d180f39fc",
+            "appType": "Web",
+            "isCustom": false,
+            "screen_id": "e5e3636c-301f-4624-bae7-014da95ad1bd",
+            "mapping": {
+                "custom1": "custom1",
+                "custom2": "custom2"
+            },
+            "__v": 0
+        }
+    ],
+    "parentPath": "Imported conversion of lead to opp"
+}

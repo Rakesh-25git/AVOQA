@@ -1,0 +1,1487 @@
+{
+    "_id": "68d0e01467fd842c915b5dea",
+    "projectId": "68bea1da206931606aae334d",
+    "name": "account creation",
+    "title": "account creation",
+    "folderId": "68d0e01367fd842c915b5da1",
+    "createdBy": "677b7886e630ee1a15603de5",
+    "createdOn": "2025-09-22T05:35:16.271Z",
+    "createdByRole": "5db0022cf87fdec084ae49ab",
+    "userName": "keerthana",
+    "modifiedBy": "677b7886e630ee1a15603de5",
+    "modifiedOn": "2025-09-22T05:43:15.766Z",
+    "displayOn": "2025-09-22T05:35:16.271Z",
+    "type": "elementRepo",
+    "appType": "Web",
+    "scrapedUrl": "false",
+    "description": "",
+    "repository": false,
+    "isLeaf": false,
+    "versions": [],
+    "selfHeal": false,
+    "application_width": "",
+    "alternateReviewers": [],
+    "assignedTo": "keerthana",
+    "__v": 0,
+    "screenShot": {},
+    "elements": [
+        {
+            "_id": "68d0e01467fd842c915b5df3",
+            "name": "NONAME1",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "svg",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/page/home",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "5541102a-7823-4b4e-bfe2-50d9cebc80c4",
+            "identifiers": {
+                "cssselector": "one-app-nav-bar-item-root:nth-child(3) one-app-nav-bar-item-dropdown div one-app-nav-bar-menu-button a lightning-icon span lightning-primitive-icon svg[class=\"slds-icon slds-icon-text-default slds-icon_xx-small\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[1]/one-appnav/div/one-app-nav-bar/nav/div/one-app-nav-bar-item-root[3]/one-app-nav-bar-item-dropdown/div/one-app-nav-bar-menu-button/a/lightning-icon/span/lightning-primitive-icon/*[local-name()=\"svg\"]",
+                "rxpath": "/html/body/div[4]/div[1]/section/div[2]/div[1]/*[name()='one-appnav']/div/*[name()='one-app-nav-bar']/*[name()='nav']/div/*[name()='one-app-nav-bar-item-root'][3]/*[name()='one-app-nav-bar-item-dropdown']/div/*[name()='one-app-nav-bar-menu-button']/a/*[name()='lightning-icon']/span/*[name()='lightning-primitive-icon']/*[name()='svg']",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5df4"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5df5"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5df6"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5df7"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5df8"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5df9"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5dfa"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5dfb"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5dfc"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5dfd"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5dfe",
+            "name": "New Account",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/page/home",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "4a3ece57-96fc-42fd-b144-4fe9550ad84d",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[1]/section/div[2]/div[1]/one-appnav/div/one-app-nav-bar/nav/div/one-app-nav-bar-item-root[3]/one-app-nav-bar-item-dropdown/div/one-app-nav-bar-menu-button/div/div/slot/one-app-nav-bar-menu-item/a/span/span",
+                "rxpath": "/html/body/div[4]/div[1]/section/div[2]/div[1]/*[name()='one-appnav']/div/*[name()='one-app-nav-bar']/*[name()='nav']/div/*[name()='one-app-nav-bar-item-root'][3]/*[name()='one-app-nav-bar-item-dropdown']/div/*[name()='one-app-nav-bar-menu-button']/div/div/*[name()='slot']/*[name()='one-app-nav-bar-menu-item']/a/span/span",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "New Account",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5dff"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e00"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e01"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e02"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e03"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e04"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e05"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e06"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e07"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e08"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e09",
+            "name": "*Account Name",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "0d71a6a4-93bb-41ef-bd4a-f33d59e7688d",
+            "identifiers": {
+                "cssselector": "input[id=\"input-288\"]",
+                "id": "input-288",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[1]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-base-input/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "rxpath": "//*[@id=\"input-288\"]",
+                "name": "Name",
+                "classname": "slds-input[3]",
+                "href": "None",
+                "label": "*Account Name",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e0a"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e0b"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e0c"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e0d"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e0e"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e0f"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e10"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e11"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e12"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e13"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e14",
+            "name": "Phone",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "a9162c59-d678-42b7-96ed-65b46335bba9",
+            "identifiers": {
+                "cssselector": "input[id=\"input-294\"]",
+                "id": "input-294",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[3]/slot/record_flexipage-record-field/div/div[2]/slot/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "rxpath": "//*[@id=\"input-294\"]",
+                "name": "Phone[0]",
+                "classname": "slds-input[4]",
+                "href": "None",
+                "label": "Phone",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e15"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e16"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e17"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e18"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e19"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e1a"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e1b"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e1c"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e1d"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e1e"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e1f",
+            "name": "Type",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "a5b1634b-a8ef-48ee-86a7-a478e861de46",
+            "identifiers": {
+                "cssselector": "button[id=\"combobox-button-302\"]",
+                "id": "combobox-button-302",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[1]/button",
+                "rxpath": "//*[@id=\"combobox-button-302\"]",
+                "name": "None",
+                "classname": "slds-combobox__input slds-input_faux fix-slds-input_faux slds-combobox__input-value[1]",
+                "href": "None",
+                "label": "--None--",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e20"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e21"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e22"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e23"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e24"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e25"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e26"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e27"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e28"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e29"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e2a",
+            "name": "Analyst",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "f802498f-2c03-43f2-bf51-273825f05e1d",
+            "identifiers": {
+                "cssselector": "lightning-base-combobox-item[class=\"slds-media slds-listbox__option slds-media_center slds-media_small slds-listbox__option_plain slds-has-focus\"] span[class=\"slds-media__body\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[2]/span[2]",
+                "rxpath": "//*[@id=\"combobox-button-302-1-302\"]/span[2]",
+                "name": "None",
+                "classname": "slds-media__body[12]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e2b"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e2c"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e2d"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e2e"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e2f"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e30"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e31"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e32"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e33"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e34"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e35",
+            "name": "NONAME4",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "svg",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "78dec8a9-40e8-4982-bcd1-29b3e69399bc",
+            "identifiers": {
+                "cssselector": "None",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field[3]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[1]/div/lightning-icon/span/lightning-primitive-icon/*[local-name()=\"svg\"]",
+                "rxpath": "//*[@id=\"field-section-content-248\"]/*[name()='slot']/*[name()='flexipage-column2'][2]/div/*[name()='slot']/*[name()='flexipage-field'][3]/*[name()='slot']/*[name()='record_flexipage-record-field']/div/div[2]/*[name()='slot']/*[name()='records-record-picklist']/*[name()='records-form-picklist']/*[name()='lightning-picklist']/*[name()='lightning-combobox']/div/div[1]/*[name()='lightning-base-combobox']/div/div/div[1]/div/*[name()='lightning-icon']/span/*[name()='lightning-primitive-icon']/*[name()='svg']",
+                "name": "None",
+                "classname": "slds-icon slds-icon-text-default slds-icon_xx-small",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e36"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e37"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e38"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e39"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e3a"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e3b"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e3c"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e3d"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e3e"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e3f"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e40",
+            "name": "Apparel",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "span",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "62f82aee-f71b-40c4-bed7-66f3b71d40e5",
+            "identifiers": {
+                "cssselector": "lightning-base-combobox-item[class=\"slds-media slds-listbox__option slds-media_center slds-media_small slds-listbox__option_plain slds-has-focus\"] span[class=\"slds-media__body\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[1]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field[3]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-picklist/records-form-picklist/lightning-picklist/lightning-combobox/div/div[1]/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[3]/span[2]",
+                "rxpath": "//*[@id=\"combobox-button-310-2-310\"]/span[2]",
+                "name": "None",
+                "classname": "slds-media__body[24]",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e41"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e42"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e43"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e44"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e45"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e46"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e47"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e48"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e49"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e4a"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e4b",
+            "name": "Website",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "335cfad7-a97a-450c-a1f2-2e52c9e14f37",
+            "identifiers": {
+                "cssselector": "input[id=\"input-315\"]",
+                "id": "input-315",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[2]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[1]/slot/record_flexipage-record-field/div/div[2]/slot/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "rxpath": "//*[@id=\"input-315\"]",
+                "name": "Website",
+                "classname": "slds-input[6]",
+                "href": "None",
+                "label": "Website",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e4c"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e4d"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e4e"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e4f"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e50"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e51"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e52"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e53"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e54"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e55"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e56",
+            "name": "Description",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "ab302324-c0ce-4be5-8a05-0de034255b6c",
+            "identifiers": {
+                "cssselector": "textarea[id=\"input-318\"]",
+                "id": "input-318",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[2]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-text-area/lightning-textarea/div/textarea",
+                "rxpath": "//*[@id=\"input-318\"]",
+                "name": "None",
+                "classname": "slds-textarea[0]",
+                "href": "None",
+                "label": "Description",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e57"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e58"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e59"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e5a"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e5b"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e5c"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e5d"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e5e"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e5f"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e60"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e61",
+            "name": "Employees",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "13f4f0df-9aa7-4b1e-9793-ab343d45b86e",
+            "identifiers": {
+                "cssselector": "input[id=\"input-324\"]",
+                "id": "input-324",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[2]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field[2]/slot/record_flexipage-record-field/div/div[2]/slot/lightning-input/lightning-primitive-input-simple/div[1]/div/input",
+                "rxpath": "//*[@id=\"input-324\"]",
+                "name": "NumberOfEmployees",
+                "classname": "slds-input[8]",
+                "href": "None",
+                "label": "Employees",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e62"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e63"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e64"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e65"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e66"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e67"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e68"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e69"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e6a"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e6b"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e6c",
+            "name": "Address Search",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "18704913-7b9b-4bb0-8106-71b8491a248f",
+            "identifiers": {
+                "cssselector": "input[id=\"combobox-input-381\"]",
+                "id": "combobox-input-381",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[3]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[1]/lightning-lookup-address/div/lightning-base-combobox/div/div/div[1]/div[1]/div/input",
+                "rxpath": "//*[@id=\"combobox-input-381\"]",
+                "name": "None",
+                "classname": "slds-combobox__input slds-input slds-combobox__input-value",
+                "href": "None",
+                "label": "Address Search",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e6d"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e6e"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e6f"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e70"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e71"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e72"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e73"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e74"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e75"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e76"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e77",
+            "name": "combobox-input-381-0-381",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "lightning-base-combobox-item",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "db539c2f-152c-4bbc-9761-98f1dc8b6ef8",
+            "identifiers": {
+                "cssselector": "lightning-base-combobox-item[id=\"combobox-input-381-0-381\"]",
+                "id": "combobox-input-381-0-381",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[3]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[1]/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[1]/lightning-lookup-address/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[1]",
+                "rxpath": "//*[@id=\"combobox-input-381-0-381\"]",
+                "name": "None",
+                "classname": "slds-media slds-listbox__option slds-media_center slds-listbox__option_entity slds-has-focus",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e78"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e79"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e7a"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e7b"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e7c"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e7d"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e7e"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e7f"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e80"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e81"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e82",
+            "name": "Address Search_16",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "903777aa-5924-4d43-83f8-056abcd37467",
+            "identifiers": {
+                "cssselector": "input[id=\"combobox-input-384\"]",
+                "id": "combobox-input-384",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[3]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[1]/lightning-lookup-address/div/lightning-base-combobox/div/div/div[1]/div[1]/div/input",
+                "rxpath": "//*[@id=\"combobox-input-384\"]",
+                "name": "None",
+                "classname": "slds-combobox__input slds-input[2]",
+                "href": "None",
+                "label": "Address Search",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e83"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e84"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e85"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e86"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e87"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e88"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e89"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e8a"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e8b"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e8c"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e8d",
+            "name": "Address Search_17",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "input",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "59480e30-0d7e-4cd3-b756-b8ad993b068e",
+            "identifiers": {
+                "cssselector": "input[id=\"combobox-input-384\"]",
+                "id": "combobox-input-384",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[3]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[1]/lightning-lookup-address/div/lightning-base-combobox/div/div/div[1]/div[1]/div/input",
+                "rxpath": "//*[@id=\"combobox-input-384\"]",
+                "name": "None",
+                "classname": "slds-combobox__input slds-input slds-combobox__input-value[1]",
+                "href": "None",
+                "label": "Address Search",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e8e"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e8f"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e90"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e91"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e92"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e93"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e94"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5e95"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5e96"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5e97"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5e98",
+            "name": "Bangalore",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "strong",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "90112b4e-38d7-45d8-b4ca-c98d3e1953ff",
+            "identifiers": {
+                "cssselector": "lightning-base-combobox-item[class=\"slds-media slds-listbox__option slds-media_center slds-listbox__option_entity slds-has-focus\"] span span lightning-base-combobox-formatted-text[title=\"Bangalore\"] strong",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-record-layout-event-broker/slot/slot/flexipage-record-home-single-col-no-header-template-desktop2/div/div/div/slot/flexipage-component2[3]/slot/flexipage-field-section2/div/div/div/laf-progressive-container/slot/div/slot/flexipage-column2[2]/div/slot/flexipage-field/slot/record_flexipage-record-field/div/div[2]/slot/records-record-layout-input-address/lightning-input-address/fieldset/div/div/div[1]/lightning-lookup-address/div/lightning-base-combobox/div/div/div[2]/lightning-base-combobox-item[1]/span[2]/span[1]/lightning-base-combobox-formatted-text/strong",
+                "rxpath": "//*[@id=\"combobox-input-384-0-384\"]/span[2]/span[1]/*[name()='lightning-base-combobox-formatted-text']/strong",
+                "name": "None",
+                "classname": "None",
+                "href": "None",
+                "label": "Bangalore",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5e99"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5e9a"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5e9b"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5e9c"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5e9d"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5e9e"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5e9f"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5ea0"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5ea1"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5ea2"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e01467fd842c915b5ea3",
+            "name": "Save",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "button",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/o/Account/new?count=1&nooverride=1&useRecordTypeCheck=1&navigationLocation=LIST_VIEW&backgroundContext=%2Flightning%2Fpage%2Fhome",
+            "width": 0,
+            "xpath": "NaN",
+            "tempOrderId": "6ba284ff-80e0-468b-ac28-70398dea2d0b",
+            "identifiers": {
+                "cssselector": "button[name=\"SaveEdit\"]",
+                "id": "None",
+                "xpath": "/html/body/div[4]/div[2]/div/div[2]/div/div[2]/div/div/div/one-record-action-flexipage/forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000/record_flexipage-desktop-record-page-decorator/div[1]/records-form-footer/div/div/div/runtime_platform_actions-actions-ribbon/ul/li[3]/runtime_platform_actions-action-renderer/runtime_platform_actions-executor-lwc-headless/slot[1]/slot/lightning-button/button",
+                "rxpath": "//*[@id=\"content_1238:0\"]/div/div/div/*[name()='one-record-action-flexipage']/*[name()='forcegenerated-flexipage_account_record_page_three_column_account__create_js___lmt___1754557266000']/*[name()='record_flexipage-desktop-record-page-decorator']/div[1]/*[name()='records-form-footer']/div/div/div/*[name()='runtime_platform_actions-actions-ribbon']/ul/li[3]/*[name()='runtime_platform_actions-action-renderer']/*[name()='runtime_platform_actions-executor-lwc-headless']/*[name()='slot'][1]/*[name()='slot']/*[name()='lightning-button']/*[name()='button']",
+                "name": "SaveEdit",
+                "classname": "slds-button slds-button_brand[2]",
+                "href": "None",
+                "label": "Save",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5ea4"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5ea5"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5ea6"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5ea7"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5ea8"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5ea9"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5eaa"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5eab"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5eac"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5ead"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        },
+        {
+            "_id": "68d0e1f367fd842c915b6384",
+            "name": "Success notification.Account \"final\" wa",
+            "height": 0,
+            "hiddentag": "No",
+            "left": 0,
+            "tag": "div",
+            "top": 0,
+            "url": "https://avoautomation.lightning.force.com/lightning/r/Account/001TZ00000UvwytYAB/view",
+            "width": 0,
+            "tempOrderId": "4627c5c5-c7ca-4b6b-a599-794289e8d013",
+            "identifiers": {
+                "cssselector": "div[class=\"toastContainer slds-notify_container slds-is-relative\"] div[class=\"slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage\"]",
+                "id": "None",
+                "xpath": "/html/body/div[6]/div[1]/div/div",
+                "rxpath": "/html/body/div[6]/div[1]/div/div",
+                "name": "None",
+                "classname": "slds-theme--success slds-notify--toast slds-notify slds-notify--toast forceToastMessage",
+                "href": "None",
+                "label": "None",
+                "custom1": "None",
+                "custom2": "None"
+            },
+            "identifierpriority": [
+                {
+                    "id": 1,
+                    "identifier": "cssselector",
+                    "_id": "68d0e01467fd842c915b5edb"
+                },
+                {
+                    "id": 2,
+                    "identifier": "id",
+                    "_id": "68d0e01467fd842c915b5edc"
+                },
+                {
+                    "id": 3,
+                    "identifier": "xpath",
+                    "_id": "68d0e01467fd842c915b5edd"
+                },
+                {
+                    "id": 4,
+                    "identifier": "rxpath",
+                    "_id": "68d0e01467fd842c915b5ede"
+                },
+                {
+                    "id": 5,
+                    "identifier": "name",
+                    "_id": "68d0e01467fd842c915b5edf"
+                },
+                {
+                    "id": 6,
+                    "identifier": "classname",
+                    "_id": "68d0e01467fd842c915b5ee0"
+                },
+                {
+                    "id": 7,
+                    "identifier": "href",
+                    "_id": "68d0e01467fd842c915b5ee1"
+                },
+                {
+                    "id": 8,
+                    "identifier": "label",
+                    "_id": "68d0e01467fd842c915b5ee2"
+                },
+                {
+                    "id": 9,
+                    "identifier": "custom1",
+                    "_id": "68d0e01467fd842c915b5ee3"
+                },
+                {
+                    "id": 10,
+                    "identifier": "custom2",
+                    "_id": "68d0e01467fd842c915b5ee4"
+                }
+            ],
+            "elementrepoid": "68d0e01467fd842c915b5dea",
+            "appType": "Web",
+            "isCustom": false,
+            "__v": 0
+        }
+    ],
+    "parentPath": "Account creation"
+}
